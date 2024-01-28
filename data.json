@@ -1,0 +1,113 @@
+[
+    {
+        "employeeId": "E100001",
+        "employeeName": "John Doe",
+        "designation": "Software Developer",
+        "joiningDate": "2024-01-01",
+        "dateOfBirth": "1990-06-15",
+        "salary": 75000,
+        "activeEmployee": true,
+        "phoneNumber": "123-456-7890",
+        "address": "123 Main St, Anytown, AT 12345"
+    },
+    {
+        "employeeId": "E100002",
+        "employeeName": "Alice Johnson",
+        "designation": "Project Manager",
+        "joiningDate": "2024-01-10",
+        "dateOfBirth": "1985-07-20",
+        "salary": 85000,
+        "activeEmployee": true,
+        "phoneNumber": "123-456-7891",
+        "address": "456 Side St, Othertown, OT 45678"
+    },
+    {
+        "employeeId": "E100003",
+        "employeeName": "Bob Smith",
+        "designation": "Quality Analyst",
+        "joiningDate": "2024-01-15",
+        "dateOfBirth": "1992-11-30",
+        "salary": 65000,
+        "activeEmployee": false,
+        "phoneNumber": "123-456-7892",
+        "address": "789 Circle Ave, Sometown, ST 78901"
+    },
+    {
+        "employeeId": "E100004",
+        "employeeName": "Emma Wilson",
+        "designation": "HR Manager",
+        "joiningDate": "2024-02-01",
+        "dateOfBirth": "1988-08-25",
+        "salary": 70000,
+        "activeEmployee": true,
+        "phoneNumber": "123-456-7893",
+        "address": "1010 Maple Drive, Leafville, LV 10101"
+    },
+    {
+        "employeeId": "E100005",
+        "employeeName": "Gary Thomas",
+        "designation": "IT Support",
+        "joiningDate": "2024-02-15",
+        "dateOfBirth": "1991-09-10",
+        "salary": 60000,
+        "activeEmployee": true,
+        "phoneNumber": "123-456-7894",
+        "address": "2020 Oak Street, Woodtown, WT 20202"
+    },
+    {
+        "employeeId": "E100006",
+        "employeeName": "Hannah Adams",
+        "designation": "Marketing Specialist",
+        "joiningDate": "2024-03-01",
+        "dateOfBirth": "1993-05-22",
+        "salary": 72000,
+        "activeEmployee": false,
+        "phoneNumber": "123-456-7895",
+        "address": "3030 Pine Lane, GreenCity, GC 30303"
+    },
+    {
+        "employeeId": "E100007",
+        "employeeName": "Ian Brewer",
+        "designation": "Sales Representative",
+        "joiningDate": "2024-03-15",
+        "dateOfBirth": "1986-12-04",
+        "salary": 68000,
+        "activeEmployee": true,
+        "phoneNumber": "123-456-7896",
+        "address": "4040 Birch Boulevard, RiverTown, RT 40404"
+    },
+    {
+        "employeeId": "E100008",
+        "employeeName": "Julia Carter",
+        "designation": "Financial Analyst",
+        "joiningDate": "2024-04-01",
+        "dateOfBirth": "1990-03-18",
+        "salary": 83000,
+        "activeEmployee": true,
+        "phoneNumber": "123-456-7897",
+        "address": "5050 Cedar Court, MountainCity, MC 50505"
+    },
+    {
+        "employeeId": "E100009",
+        "employeeName": "Kyle Davidson",
+        "designation": "Graphic Designer",
+        "joiningDate": "2024-04-15",
+        "dateOfBirth": "1987-10-30",
+        "salary": 65000,
+        "activeEmployee": true,
+        "phoneNumber": "123-456-7898",
+        "address": "6060 Aspen Avenue, Hillville, HV 60606"
+    },
+    {
+        "employeeId": "E100010",
+        "employeeName": "Linda Evans",
+        "designation": "Product Manager",
+        "joiningDate": "2024-05-01",
+        "dateOfBirth": "1989-02-14",
+        "salary": 90000,
+        "activeEmployee": true,
+        "phoneNumber": "123-456-7899",
+        "address": "7070 Elm Street, ValleyTown, VT 70707"
+    }
+   
+]
